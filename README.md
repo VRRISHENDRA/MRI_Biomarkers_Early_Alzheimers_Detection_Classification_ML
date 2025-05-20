@@ -1,1 +1,1 @@
-# MRI_Biomarkers_Early_Alzheimers_Detection_Classification_ML
+# MRI-Based Biomarkers for Early Detection and Classification of Alzheimer Disease Using Machine Learning 
